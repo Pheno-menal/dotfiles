@@ -3,4 +3,4 @@
 dotfiles for my linux setup
 
 # fonts
-termsyn,Siji, & all in https://github.com/gabrielelana/awesome-terminal-fonts
+termsyn, Siji, & https://github.com/gabrielelana/awesome-terminal-fonts
