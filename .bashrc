@@ -115,4 +115,4 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-alias config='/usr/bin/git --git-dir=/home/rob/.cfg/ --work-tree=/home/rob'
+alias dotfiles='/usr/bin/git --git-dir=/home/rob/.dotfiles/ --work-tree=/home/rob'
